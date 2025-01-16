@@ -1,0 +1,52 @@
+# Build directories
+build/
+out/
+cmake-build-*/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+!CMakeLists.txt
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+.vs/
+
+# Project binary
+nginx_srv_cfg
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependency directories
+vcpkg/
+conan/
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Generated documentation
+docs/generated/ 
