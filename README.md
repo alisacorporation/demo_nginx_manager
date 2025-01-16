@@ -67,3 +67,7 @@ The program will:
 ## Development Context
 
 Developed as part of my continuous learning journey in C++ and systems programming, with guidance and code review from AI to ensure best practices and optimal solutions.
+
+## Screenshots
+
+![Application Screenshot](screenshot.png)
